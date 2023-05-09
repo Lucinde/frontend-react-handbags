@@ -52,3 +52,4 @@ Begin met het maken van wijzigingen in `src/App.js`: elke keer als je een bestan
    * Een `h2`-element voor de titel en `p`-elementen voor de paragrafen (als er _wel_ tekst in staat)
 2. Maak nu een custom `Tile`-component die alle benodigde data kan ontvangen. Als er een afbeelding wordt meegegeven gedraagt hij zich als een foto-tegel, maar zonder afbeelding is het
    een tekst-tegel. Houd er rekening mee dat je van tevoren ook niet weet hoeveel losse paragrafen er in een `Tile` komen te staan.
+# frontend-react-handbags
